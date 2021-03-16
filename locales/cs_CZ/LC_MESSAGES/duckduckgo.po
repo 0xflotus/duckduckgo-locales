@@ -3039,6 +3039,9 @@ msgctxt "maps_places"
 msgid "Open"
 msgstr "Otevřít"
 
+msgid "Open %s website"
+msgstr ""
+
 msgid "Open %sMenu > Settings > Search %s and select DuckDuckGo!"
 msgstr "Otevřete %1$sMenu > Nastavení > Vyhledávání %2$s a vyberte DuckDuckGo!"
 
@@ -5593,4 +5596,3 @@ msgstr "blokování trackerů"
 msgctxt "published date for videos"
 msgid "yr"
 msgstr "r"
-

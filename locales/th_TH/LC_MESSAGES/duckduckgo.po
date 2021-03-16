@@ -2996,6 +2996,9 @@ msgctxt "maps_places"
 msgid "Open"
 msgstr "เปิด"
 
+msgid "Open %s website"
+msgstr ""
+
 msgid "Open %sMenu > Settings > Search %s and select DuckDuckGo!"
 msgstr "เปิด %1$sเมนู > การตั้งค่า > ค้นหา %2$s และเลือก DuckDuckGo!"
 
@@ -5487,4 +5490,3 @@ msgstr "การบล็อกตัวติดตาม"
 msgctxt "published date for videos"
 msgid "yr"
 msgstr "ป"
-

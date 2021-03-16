@@ -2938,6 +2938,9 @@ msgctxt "maps_places"
 msgid "Open"
 msgstr "Malfermita"
 
+msgid "Open %s website"
+msgstr ""
+
 msgid "Open %sMenu > Settings > Search %s and select DuckDuckGo!"
 msgstr "Malfermu %sMenu > Settings > Search %s kaj elektu DuckDuckGo!"
 
@@ -5395,4 +5398,3 @@ msgstr "blokado de spuriloj"
 msgctxt "published date for videos"
 msgid "yr"
 msgstr ""
-

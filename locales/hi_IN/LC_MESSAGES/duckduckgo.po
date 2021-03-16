@@ -3008,6 +3008,9 @@ msgctxt "maps_places"
 msgid "Open"
 msgstr "खोलें"
 
+msgid "Open %s website"
+msgstr ""
+
 msgid "Open %sMenu > Settings > Search %s and select DuckDuckGo!"
 msgstr "%1$sमेनू > सेटिंग > खोज %2$s खोलें और DuckDuckGo चुनें!"
 
@@ -5522,4 +5525,3 @@ msgstr "ट्रैकर ब्लॉकिंग"
 msgctxt "published date for videos"
 msgid "yr"
 msgstr "सा"
-

@@ -3048,6 +3048,9 @@ msgctxt "maps_places"
 msgid "Open"
 msgstr "営業中"
 
+msgid "Open %s website"
+msgstr ""
+
 msgid "Open %sMenu > Settings > Search %s and select DuckDuckGo!"
 msgstr "%1$sメニュー > 設定 > 検索 %2$sを開いてDuckDuckGoを選択してください。"
 
@@ -5598,4 +5601,3 @@ msgstr "トラッカーブロック"
 msgctxt "published date for videos"
 msgid "yr"
 msgstr "年"
-

@@ -3045,6 +3045,9 @@ msgctxt "maps_places"
 msgid "Open"
 msgstr "തുറക്കുക"
 
+msgid "Open %s website"
+msgstr ""
+
 msgid "Open %sMenu > Settings > Search %s and select DuckDuckGo!"
 msgstr "%1$sമെനു > ക്രമീകരണം > തിരയുക%2$s തുറന്ന് DuckDuckGo തിരഞ്ഞെടുക്കുക!"
 
@@ -5592,4 +5595,3 @@ msgstr "ട്രാക്കർ തടയൽ"
 msgctxt "published date for videos"
 msgid "yr"
 msgstr "വർഷം"
-

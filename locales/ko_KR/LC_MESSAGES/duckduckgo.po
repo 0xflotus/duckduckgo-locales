@@ -3020,6 +3020,9 @@ msgctxt "maps_places"
 msgid "Open"
 msgstr "영업 중"
 
+msgid "Open %s website"
+msgstr ""
+
 msgid "Open %sMenu > Settings > Search %s and select DuckDuckGo!"
 msgstr "%1$s메뉴  > 설정 > 검색%2$s으로 들어가서 DuckDuckGo를 선택하세요!"
 
@@ -5541,4 +5544,3 @@ msgstr "추적 차단"
 msgctxt "published date for videos"
 msgid "yr"
 msgstr "년"
-

@@ -3037,6 +3037,9 @@ msgctxt "maps_places"
 msgid "Open"
 msgstr "Maak oop"
 
+msgid "Open %s website"
+msgstr ""
+
 msgid "Open %sMenu > Settings > Search %s and select DuckDuckGo!"
 msgstr "Open %1$sKieslys > Instellings > Soek%2$s en kies DuckDuckGo!"
 
@@ -5572,4 +5575,3 @@ msgstr "naspoorderblokkering"
 msgctxt "published date for videos"
 msgid "yr"
 msgstr "j"
-

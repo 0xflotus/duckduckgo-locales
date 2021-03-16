@@ -2982,6 +2982,9 @@ msgctxt "maps_places"
 msgid "Open"
 msgstr "Oscail"
 
+msgid "Open %s website"
+msgstr ""
+
 msgid "Open %sMenu > Settings > Search %s and select DuckDuckGo!"
 msgstr ""
 "Oscail %sRoghchlár > Socruithe > Cuardaigh %s agus roghnaigh DuckDuckGo!"
@@ -5489,4 +5492,3 @@ msgstr "bac ar lorgairí"
 msgctxt "published date for videos"
 msgid "yr"
 msgstr ""
-

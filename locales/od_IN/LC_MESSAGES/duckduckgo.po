@@ -2916,6 +2916,9 @@ msgctxt "maps_places"
 msgid "Open"
 msgstr "ଖୋଲା"
 
+msgid "Open %s website"
+msgstr ""
+
 msgid "Open %sMenu > Settings > Search %s and select DuckDuckGo!"
 msgstr "ଖୋଲନ୍ତୁ %sମେନୁ > ସେଟିଙ୍ଗ > ଖୋଜାଖୋଜି %s ଏବଂ DuckDuckGo  ଚୟନ କରନ୍ତୁ!"
 
@@ -5368,4 +5371,3 @@ msgstr ""
 msgctxt "published date for videos"
 msgid "yr"
 msgstr ""
-

@@ -3046,6 +3046,9 @@ msgctxt "maps_places"
 msgid "Open"
 msgstr "Deschideți"
 
+msgid "Open %s website"
+msgstr ""
+
 msgid "Open %sMenu > Settings > Search %s and select DuckDuckGo!"
 msgstr "Deschide %1$sMeniu > Setări > Caută %2$s și selectează DuckDuckGo!"
 
@@ -5610,4 +5613,3 @@ msgstr "blocarea urmăririi"
 msgctxt "published date for videos"
 msgid "yr"
 msgstr "an"
-

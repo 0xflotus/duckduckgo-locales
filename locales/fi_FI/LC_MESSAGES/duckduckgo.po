@@ -3029,6 +3029,9 @@ msgctxt "maps_places"
 msgid "Open"
 msgstr "Avaa"
 
+msgid "Open %s website"
+msgstr ""
+
 msgid "Open %sMenu > Settings > Search %s and select DuckDuckGo!"
 msgstr "Avaa %1$sValikko > Asetukset > Haku %2$s ja valitse DuckDuckGo!"
 
@@ -5571,4 +5574,3 @@ msgstr "seurannan esto"
 msgctxt "published date for videos"
 msgid "yr"
 msgstr "v"
-

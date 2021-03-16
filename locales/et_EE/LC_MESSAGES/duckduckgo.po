@@ -3026,6 +3026,9 @@ msgctxt "maps_places"
 msgid "Open"
 msgstr "Avatud"
 
+msgid "Open %s website"
+msgstr ""
+
 msgid "Open %sMenu > Settings > Search %s and select DuckDuckGo!"
 msgstr "Ava %1$sMenüü > Seaded > Otsi %2$s ja vali DuckDuckGo!"
 
@@ -5553,4 +5556,3 @@ msgstr "jälgija blokeerimine"
 msgctxt "published date for videos"
 msgid "yr"
 msgstr "a"
-

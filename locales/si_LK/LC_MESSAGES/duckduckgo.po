@@ -3007,6 +3007,9 @@ msgctxt "maps_places"
 msgid "Open"
 msgstr "විවෘත"
 
+msgid "Open %s website"
+msgstr ""
+
 msgid "Open %sMenu > Settings > Search %s and select DuckDuckGo!"
 msgstr "%1$sMenu > Settings > Search %2$s විවෘත කර DuckDuckGo තෝරන්න!"
 
@@ -5516,4 +5519,3 @@ msgstr "නිරික්සුව අවහිර කිරීම"
 msgctxt "published date for videos"
 msgid "yr"
 msgstr "වර්ෂ"
-

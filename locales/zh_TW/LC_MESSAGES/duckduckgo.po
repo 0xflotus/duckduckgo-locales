@@ -2981,6 +2981,9 @@ msgctxt "maps_places"
 msgid "Open"
 msgstr "營業中"
 
+msgid "Open %s website"
+msgstr ""
+
 msgid "Open %sMenu > Settings > Search %s and select DuckDuckGo!"
 msgstr "打開 %1$s 選單 ＞ 設定 ＞ 搜尋 %2$s 然後選擇 DuckDuckGo！"
 
@@ -5448,4 +5451,3 @@ msgstr "追蹤器封鎖"
 msgctxt "published date for videos"
 msgid "yr"
 msgstr "年"
-

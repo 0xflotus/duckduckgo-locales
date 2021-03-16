@@ -3085,6 +3085,9 @@ msgctxt "maps_places"
 msgid "Open"
 msgstr "Megnyitás"
 
+msgid "Open %s website"
+msgstr ""
+
 msgid "Open %sMenu > Settings > Search %s and select DuckDuckGo!"
 msgstr ""
 "Menj a %1$sMenü > Beállítások > Keresés %2$s menüpontba és válaszd ki a "
@@ -5684,4 +5687,3 @@ msgstr "követésvédelem"
 msgctxt "published date for videos"
 msgid "yr"
 msgstr "év"
-

@@ -3045,6 +3045,9 @@ msgctxt "maps_places"
 msgid "Open"
 msgstr "Aç"
 
+msgid "Open %s website"
+msgstr ""
+
 msgid "Open %sMenu > Settings > Search %s and select DuckDuckGo!"
 msgstr ""
 "%1$sMenüyü açın > Ayarlar > %2$s aramasını yapın ve DuckDuckGo'yu seçin"
@@ -5596,4 +5599,3 @@ msgstr "izleyici engelleme"
 msgctxt "published date for videos"
 msgid "yr"
 msgstr "y"
-

@@ -3058,6 +3058,9 @@ msgctxt "maps_places"
 msgid "Open"
 msgstr "Отваряне"
 
+msgid "Open %s website"
+msgstr ""
+
 msgid "Open %sMenu > Settings > Search %s and select DuckDuckGo!"
 msgstr "Отворете %1$sМеню > Настройки > Търсене %2$s и посочете DuckDuckGo!"
 
@@ -5629,4 +5632,3 @@ msgstr "блокиране на проследяването"
 msgctxt "published date for videos"
 msgid "yr"
 msgstr "год"
-

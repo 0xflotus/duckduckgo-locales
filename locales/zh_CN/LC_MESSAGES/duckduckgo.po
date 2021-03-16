@@ -2976,6 +2976,9 @@ msgctxt "maps_places"
 msgid "Open"
 msgstr "正在营业"
 
+msgid "Open %s website"
+msgstr ""
+
 msgid "Open %sMenu > Settings > Search %s and select DuckDuckGo!"
 msgstr "打开 %1$s菜单 > 设置 > 搜索%2$s 然后选择 DuckDuckGo！"
 
@@ -5450,4 +5453,3 @@ msgstr "屏蔽追踪脚本"
 msgctxt "published date for videos"
 msgid "yr"
 msgstr "年"
-

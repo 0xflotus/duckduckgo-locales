@@ -3052,6 +3052,9 @@ msgctxt "maps_places"
 msgid "Open"
 msgstr "Otvorené"
 
+msgid "Open %s website"
+msgstr ""
+
 msgid "Open %sMenu > Settings > Search %s and select DuckDuckGo!"
 msgstr "Otvorte %1$sMenu > Nastavenia > Vyhľadávať %2$s a vyberte DuckDuckGo!"
 
@@ -5621,4 +5624,3 @@ msgstr "blokovanie sledovacích zariadení"
 msgctxt "published date for videos"
 msgid "yr"
 msgstr "r"
-

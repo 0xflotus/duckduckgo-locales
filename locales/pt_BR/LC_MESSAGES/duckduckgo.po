@@ -2967,6 +2967,9 @@ msgctxt "maps_places"
 msgid "Open"
 msgstr "Abrir"
 
+msgid "Open %s website"
+msgstr ""
+
 msgid "Open %sMenu > Settings > Search %s and select DuckDuckGo!"
 msgstr "Abrir %sMenu > Configurações > Procura %s e selecione DuckDuckGo!"
 
@@ -5459,4 +5462,3 @@ msgstr "bloqueio de rastreador"
 msgctxt "published date for videos"
 msgid "yr"
 msgstr ""
-

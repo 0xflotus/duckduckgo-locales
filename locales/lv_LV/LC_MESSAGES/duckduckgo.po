@@ -3060,6 +3060,9 @@ msgctxt "maps_places"
 msgid "Open"
 msgstr "Atvērt"
 
+msgid "Open %s website"
+msgstr ""
+
 msgid "Open %sMenu > Settings > Search %s and select DuckDuckGo!"
 msgstr ""
 "Atver %1$sIzvēlne > Iestatījumi > Meklēšana %2$s un izvēlies DuckDuckGo!"
@@ -5619,4 +5622,3 @@ msgstr "izsekotāju bloķēšana"
 msgctxt "published date for videos"
 msgid "yr"
 msgstr "g."
-

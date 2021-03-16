@@ -3102,6 +3102,9 @@ msgctxt "maps_places"
 msgid "Open"
 msgstr "΄Άνοιγμα"
 
+msgid "Open %s website"
+msgstr ""
+
 msgid "Open %sMenu > Settings > Search %s and select DuckDuckGo!"
 msgstr ""
 "Ανοίξτε το %1$sΜενού > Ρυθμίσεις > Αναζήτηση %2$s και επιλέξτε DuckDuckGo!"
@@ -5726,4 +5729,3 @@ msgstr "αποκλεισμός παρακολούθησης"
 msgctxt "published date for videos"
 msgid "yr"
 msgstr "έτ"
-

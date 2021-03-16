@@ -3031,6 +3031,9 @@ msgctxt "maps_places"
 msgid "Open"
 msgstr "Odpri"
 
+msgid "Open %s website"
+msgstr ""
+
 msgid "Open %sMenu > Settings > Search %s and select DuckDuckGo!"
 msgstr "Odprite %1$sMeni > Nastavitve > Iskanje %2$s in izberite DuckDuckGo!"
 
@@ -5565,4 +5568,3 @@ msgstr "blokiranje sledenja"
 msgctxt "published date for videos"
 msgid "yr"
 msgstr "leto"
-
